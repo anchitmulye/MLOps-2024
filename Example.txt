@@ -1,1 +1,1 @@
-This is an example file for MLOps Assignment.
+In this example file the content is replaced entirely.
